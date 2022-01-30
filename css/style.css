@@ -30,6 +30,77 @@ iframe {
   width: 100%;
   height: 350px;
 }
-.bg-light {
-  background-color: #c9dbdb;
+
+.video-container {
+  position: relative;
+}
+.video {
+  position: absolute;
+  width: 100%;
+}
+
+.bg-gray {
+  background-color: #eee;
+}
+
+.font-18 {
+  font-size: 18px;
+}
+
+.font-56 {
+  font-size: 56px;
+}
+.sidebar ul li {
+  list-style: none;
+  font-size: 20px;
+}
+
+.text-yellow {
+  color: #cc9900;
+  font-size: 12px !important;
+}
+
+.sidebar-container {
+  position: relative;
+}
+.sidebar {
+  position: absolute;
+  padding: 10px 0;
+  right: -5px;
+  bottom: 40%;
+}
+
+.sidebar ul {
+  margin: 0;
+  padding: 0 10px;
+}
+
+.section-5 {
+  background: url("../images/360_F_117354961_4mwuXGOIzS0rYeuDlpMOjMN5NrV2t5Vn.jpg");
+}
+
+.margin-right {
+  border-right: 2px solid #cc9900;
+}
+
+.font-31 {
+  font-size: 31px;
+}
+
+.s-5-list {
+  list-style: none;
+  font-size: 21px;
+}
+
+.s-5-list li {
+  margin: 20px 5px;
+}
+
+.s-5-list li span {
+  padding: 10px 5px;
+  color: #006d55;
+}
+.s-5-list li span:hover {
+  background-color: #006d55;
+  color: #fff;
 }
